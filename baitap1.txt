@@ -1,7 +1,9 @@
 On branch master
-Your branch is up to date with 'origin/master'.
 
 Untracked files:
 	baitap1.txt
 
 nothing added to commit but untracked files present
+120230
+020.
+020201
